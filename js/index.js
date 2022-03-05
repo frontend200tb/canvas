@@ -1,4 +1,4 @@
-console.log('frontend200tb touch slider');
+console.log('start frontend200tb canvas');
 
 
 /*****************
@@ -63,4 +63,4 @@ context.stroke();
 События
 *****************/
 
-console.log('frontend200tb memory finish');
+console.log('end frontend200tb canvas');
